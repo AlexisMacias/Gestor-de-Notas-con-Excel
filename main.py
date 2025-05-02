@@ -84,10 +84,10 @@ def filtro_por_titulo():
             break
 
         elif titulo == "":
-            print("No escribiste ningun titulo ingresa una categoría valida por favor")
+            print("No escribiste ningun titulo ingresa un titulo valida por favor")
 
         else:
-            print("No hay categorias con ese nombre, por favor ingresa una categoría valida")
+            print("No hay categorias con ese nombre, por favor ingresa un titulo  valido")
             break
 
 
